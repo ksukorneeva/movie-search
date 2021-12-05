@@ -1,1 +1,1 @@
-# movie-search
+# movie-search-initial-project
